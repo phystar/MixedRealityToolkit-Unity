@@ -480,7 +480,7 @@ namespace MixedReality.Toolkit.SpatialManipulation
                 yield return null;
             }
         }
-
+        // test
         #region MonoBehaviour Implementation
 
         /// <summary>
